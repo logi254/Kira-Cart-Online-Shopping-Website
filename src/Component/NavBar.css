@@ -1,0 +1,54 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  gap: 4px;
+}
+.logo {
+  display: flex;
+  font-size: 20px;
+}
+.navTitle{
+  font-size: 30px;
+  margin-right: 35%;
+  color: rgba(255, 187, 187, 0.916);
+}
+
+.navMain {
+  background-color: rgb(207, 224, 255);
+  color: white;
+  height: 65px;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  position: sticky;
+  width: 100%;
+  top: 0%;
+}
+
+
+
+.navLinks a {
+  color: rgb(117, 117, 117);
+  text-decoration: none;
+  text-align: left;
+}
+.navLinks {
+  display: flex;
+  gap: 25px;
+}
+.navLinks a:hover {
+  color: rgb(55, 118, 255);
+}
+.navCart {
+  background-color: rgb(219, 158, 111);
+  padding: 10px 25px;
+  border-radius: 8px;
+  color: white;
+}
+.navCart a {
+  text-decoration: none;
+  color: white;
+}
+.navCart a:hover {
+  color: rgb(170, 102, 0);
+}
