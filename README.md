@@ -1,18 +1,20 @@
-"# ShopingCartApp" 
-
 # 🛍️ **Shopping Cart - Beauty Products Order**  
 
-A React-based shopping cart application that allows users to browse, add, and manage beauty product orders efficiently.  
+A React-based shopping cart application that allows users to order beauty product efficiently in th website.  
 
 ## 🚀 **Live Demo**  
-[🔗 View Live Project](http://shoppingcart-avi.netlify.app)  
+http://localhost:5173/
 
 ## 📋 **Features**  
-✅ Fetches beauty products from [DummyJSON API](https://dummyjson.com/products)  
-✅ Displays product details (image, price, description, etc.)  
-✅ Add/remove products from the shopping cart  
-✅ Shows total price dynamically  
-✅ Responsive design for mobile and desktop  
+✔️Fetches beauty products from [DummyJSON API](https://dummyjson.com/products) 
+
+✔️ Displays product details (image, price, description, etc.)  
+
+✔️ Add/remove products from the shopping cart  
+
+✔️ Shows total price dynamically  
+
+✔️ Responsive design for mobile and desktop  
 
 ## 🛠 **Tech Stack**  
 - ⚛️ React.js  
@@ -23,30 +25,28 @@ A React-based shopping cart application that allows users to browse, add, and ma
 ## 🚀 **Installation & Setup**  
 To run this project locally, follow these steps:  
 
-### 1️⃣ **Clone the Repository**  
+ 1️. **Clone the Repository**  
 ```sh
 git clone https://github.com/avi17032004/Shopping-Cart.git
 cd Shopping-Cart
 ```
 
-### 2️⃣ **Install Dependencies**  
+ 2️. **Install Dependencies**  
 ```sh
 npm install
 ```
 
-### 3️⃣ **Start the Development Server**  
+ 3️. **Start the Development Server**  
 ```sh
 npm run dev
 ```
 
 ## ✅ **How to Use**  
-1️⃣ Browse the beauty products listed in the store.  
-2️⃣ Click "Add to Cart" to add products.  
-3️⃣ View the total price and manage items in the cart.  
-4️⃣ Remove items if needed.  
+🌼Browse the beauty products listed in the store.  
+🌼 Click "Add to Cart" to add products.  
+🌼 View the total price and manage items in the cart.  
+🌼 Remove items if needed.  
 
+# License
 
-## ✨ **Contact**  
-👤 Avinash  
-📧 Email: balaji.avinash17@gmail.com  
-🔗 [LinkedIn](www.linkedin.com/in/avinash-b-6b3ba7282)  
+This project is open-source and available under the MIT License.
